@@ -1,3 +1,4 @@
+""" Disclaimer, dieser code wurde generiert von Perplexity AI 2026, und überprüft von einem Python Developer"""
 #!/usr/bin/env python3
 """
 Rotor Hub — Upper Disc 10-Rod
