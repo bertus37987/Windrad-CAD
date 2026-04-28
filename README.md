@@ -1,7 +1,7 @@
 # Kostenlose CAD .stl Modelle für Windrad Projekte !
 ***Hinweis:***  
-Disks Enthält die Mittelscheiben  [Disks](Windrad_CAD/CAD_Models/disks/README.md)  
-Holders enthält die Halterungen  [Holder](Windrad_CAD/CAD_Models/Holders/README.md)  
+Disks Enthält die Mittelscheiben  [Disks](CAD_Models/disks/README.md)  
+Holders enthält die Halterungen  [Holder](CAD_Models/Holders/README.md)  
 Alle .stl Modelle können in [Tinkercad](https://www.tinkercad.com/) geöffnet werden !  
 ### Eine Schnelle Vorschau der Modelle
 ![Vorschau](Images/uerbersicht.png)  
