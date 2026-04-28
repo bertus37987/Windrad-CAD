@@ -1,4 +1,4 @@
-
+""" Disclaimer, dieser code wurde generiert von Perplexity AI 2026, und überprüft von einem Python Developer"""
 import trimesh
 import numpy as np
 
