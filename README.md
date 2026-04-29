@@ -10,4 +10,4 @@ Alle .stl Modelle können in [Tinkercad](https://www.tinkercad.com/) geöffnet w
 ![Untere](Images/Lower_Disk.png)   
 
 
-> Disclaimer die Modelle sind mit Python numpy-stl erstellt, und wurden in tinker cad verbessert 😀 !
+> Disclaimer die Modelle sind mit Python numpy-stl und trimesh erstellt, und wurden in tinker cad verbessert 😀 !
